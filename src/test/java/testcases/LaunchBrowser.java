@@ -18,6 +18,7 @@ public class LaunchBrowser {
 		driver=new ChromeDriver(chromeOptions);
 		driver.get("https://www.google.com");
 		System.out.println("Browser launched successfully");
+		System.out.println("Browser launched successfully");
 		
 		
 	}
